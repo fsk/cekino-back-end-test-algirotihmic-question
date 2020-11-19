@@ -3,6 +3,10 @@ package narsisticnumbers;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * @author Furkan.Kulaksiz
+ */
+
 public class NarsisticNumbers {
 
     public static void main(String[] args) throws Exception {

@@ -7,7 +7,7 @@ package narsisticnumbers;
 
 /**
  *
- * @author USER
+ * @author Furkan.Kulaksiz
  */
 public class Colors {
     
