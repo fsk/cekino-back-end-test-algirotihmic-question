@@ -23,3 +23,15 @@ dinamik olarak işlem yapılabilsin.
 3) Float ya da double sayıların narsistliğinden bahseddilemez. Bu durum kodlanmadı.
 4) ArrayList ve recursive gibi ram'i işgal eden veriyapıları ve methodlar kullanıldı.
 
+
+# DÜZELTMELER
+
+Gerekli exception handlingler yazıldı. Negatif sayıların, double ya da float sayıların ve rakam olmayanların kontrolleri yazıldı.
+Konuyla alakalı olarak, 0 harici sayıların kontrolu yapıldı.
+
+Hatalar kısmında ise exception handling daha düzgün yazılabilirdi.
+
+# DİKKAT
+
+Kodu github'a push ederken Master Branch üzerinden conflict'e düştüm. Kodu FinishedBranch üzerinden clone'lamalısınız.
+
